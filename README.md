@@ -23,7 +23,7 @@ Create an RSS feed viewer.
 
 ## AI usage
 
-I used Copilot in VSCode for some code completion, but nothing too significant. I paired with the engineers I was interviewing with, and profread all AI code.
+I used Copilot in VSCode for some code completion, but nothing too significant. I paired with the engineers I was interviewing with, and proofread all AI code.
 
 ## To Run
 
